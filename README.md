@@ -6,4 +6,4 @@ Un píxel es la mínima expresión digital de un color y el pixel art es una for
 
 En este curso aprenderás a replicar esta estética de la mano de Daniel Benítez —cofundador del estudio de videojuegos Fourattic— quien te enseñará a dominar el arte del píxel desde cero, para crear personajes y gráficos para videojuegos en 2D de última generación, usando el software Pyxel Edit. 
 
-![Alt text](images/5601-big.jpg)
+![Alt text](Images/5601-big.jpg)
